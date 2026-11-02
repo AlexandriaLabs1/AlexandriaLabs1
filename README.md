@@ -19,14 +19,17 @@
   [TikTok — @mvp_comics1](https://www.tiktok.com/@mvp_comics1)
 
 
-### 🚀 Fan Projects
+### 🚀 Projects
 
 A collection of non-commercial projects inspired by cartoons, iconic characters, memes, and internet culture.
 
-
+- **Alexandria Hub** 
+<br> An open digital library of useful resources, tools, and platforms for learning, project development, entrepreneurship, and discovering new opportunities.
+<br> 🔗 [GitHub Repository](https://github.com/AlexandriaLabs1/Alexandria_Hub)
 - **Homer Simpson's To-Do List** 
 <br> An interactive bilingual To-Do List inspired by The Simpsons, featuring donut checkboxes, sound effects, a mini-game, and automatic saving.
 <br> 🔗 [Live Demo](https://sites.google.com/view/simpsonsto-dolist/full-page-embed)
+
 
 ---
 
