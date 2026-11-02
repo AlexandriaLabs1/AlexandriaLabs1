@@ -13,7 +13,7 @@
 ### 🗾 Channel Navigation
 
 - **#shorts** - Short videos 🎥  
-  [YouTube — Thanasis Studio](https://www.youtube.com/@Thanasis_Studio)
+  [YouTube — Alexandria Labs](https://www.youtube.com/channel/UCo-RsUVjjLSQdCLQatXWufw)
 
 - **#comics** - Comic strips and comics 🕷  
   [TikTok — @mvp_comics1](https://www.tiktok.com/@mvp_comics1)
