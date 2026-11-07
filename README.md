@@ -29,7 +29,9 @@ A collection of non-commercial projects inspired by cartoons, iconic characters,
 - **Homer Simpson's To-Do List** 
 <br> An interactive bilingual To-Do List inspired by The Simpsons, featuring donut checkboxes, sound effects, a mini-game, and automatic saving.
 <br> 🔗 [Live Demo](https://sites.google.com/view/simpsonsto-dolist/full-page-embed)
-
+- **Tom Riddle's Magical Diary 🐍**
+<br> An interactive bilingual web application inspired by Tom Riddle's Diary from Harry Potter and ChatGPT memes, featuring client-side AI, ink animations, quill sound effects, and zero-backend execution.
+<br> 🔗 [GitHub Repository](https://github.com/AlexandriaLabs1/tom-riddle-journal)
 
 ---
 
